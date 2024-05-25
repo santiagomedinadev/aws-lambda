@@ -1,0 +1,3 @@
+[submodule "hello-lambda"]
+	path = hello-lambda
+	url = git@github.com:santiagomedinadev/hello-lambda.git
