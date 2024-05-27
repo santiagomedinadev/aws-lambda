@@ -4,3 +4,6 @@
 [submodule "simple-handler"]
 	path = simple-handler
 	url = git@github.com:santiagomedinadev/simple-handler.git
+[submodule "hello-spring-cloud-function"]
+	path = hello-spring-cloud-function
+	url = git@github.com:santiagomedinadev/hello-spring-cloud-function.git
